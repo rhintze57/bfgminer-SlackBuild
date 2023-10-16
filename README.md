@@ -1,1 +1,2 @@
 # bfgminer-SlackBuild
+dependancy uthash
